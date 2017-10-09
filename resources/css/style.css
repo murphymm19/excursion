@@ -12,4 +12,17 @@ h1 {
 }
 h2 {
   font-size: 42px;
+  font-weight: 300;
+}
+h3 {
+  color: gray;
+  font-size: 21px;
+  font-weight: 400;
+}
+a {
+  color: aquamarine;
+  font-size: 16px
+}
+#copyright {
+  text-align: right;
 }
